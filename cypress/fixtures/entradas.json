@@ -1,0 +1,20 @@
+{
+  "nome": "Maria",
+  "sobrenome": "Silva Souza",
+  "sugestao": "Mais opções no formulário.",
+  "linhasTabela": [
+    {
+      "indice": 0,
+      "valor": "Banana"
+    },
+    {
+      "indice": 1,
+      "valor": "Maçã"
+    },
+    {
+      "indice": 2,
+      "valor": "Abacaxi"
+    }
+  ]
+}
+
